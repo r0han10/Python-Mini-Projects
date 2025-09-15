@@ -51,7 +51,8 @@ print()
 
 print(f"You got {score}/6 ")
 
-if score > 0.7:
+if score > 0:
     print(" 🙀 ")
 else:
+
     print(" 🫣 ")
